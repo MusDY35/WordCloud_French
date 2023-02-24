@@ -43,4 +43,4 @@ plt.figure(figsize=(20,40),facecolor='k')
 plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis("off")
 
-plt.savefig('wordcloud2.png', facecolor='k', bbox_inches='tight')
+plt.savefig('wordcloud.png', facecolor='k', bbox_inches='tight')
